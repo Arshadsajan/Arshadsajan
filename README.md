@@ -1,6 +1,6 @@
 ### Hi, I'm Arshad👋
 
-I’m currently working at HCL technologies as Front-end ReactJs Developer.
+I’m currently working at HCL technologies as Front-end Developer.
 
 Here are some ideas to get you started:
 
